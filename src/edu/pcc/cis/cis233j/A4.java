@@ -8,7 +8,7 @@ import java.util.Date;
 
 public class A4 {
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
+        System.out.println("Hello, World! I am learning Java");
         System.out.println(new Date());
     }
 }
