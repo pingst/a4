@@ -1,4 +1,5 @@
 package edu.pcc.cis.cis233j;
+import java.util.Date;
 
 /**
  * Created by J Pings
@@ -8,5 +9,6 @@ package edu.pcc.cis.cis233j;
 public class A4 {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
+        System.out.println(new Date());
     }
 }
